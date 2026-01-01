@@ -22,5 +22,5 @@ Information Technology
     About me (about.html)
   </h3>
   <img width="1919" height="1015" alt="about 1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%201%20%E2%80%94%20Personal%20Portfolio%20(HTML%20Only)/screenshots/about%201.png?raw=true" />
-  <img width="1919" height="907" alt="about 2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%201%20%E2%80%94%20Personal%20Portfolio%20(HTML%20Only)/screenshots/portfolio%203.png?raw=true" />
+  <img width="1919" height="907" alt="about 2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%201%20%E2%80%94%20Personal%20Portfolio%20(HTML%20Only)/screenshots/about%202.png?raw=true" />
 </section>
