@@ -6,8 +6,8 @@ Information Technology
 25118018
 <br>
 <section>
-  <h1>
+  <h2>
     DAY 1 — Personal Portfolio (HTML Only)
-  </h1>
-  ![alt text](https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main//image.jpg?raw=true)
+  </h2>
+  ![Alt text](https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%201%20%E2%80%94%20Personal%20Portfolio%20(HTML%20Only)/screenshots/portfolio%201.png?raw=true)
 </section>
