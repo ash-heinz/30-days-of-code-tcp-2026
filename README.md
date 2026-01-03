@@ -47,8 +47,8 @@ Information Technology
   <img width="1919" height="1018" alt="portfolio 1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_1.png?raw=true" />
   <img width="1919" height="909" alt="portfolio 2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_2.png?raw=true" />
   <img width="1919" height="909" alt="portfolio 3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_3.png?raw=true" />
-  <img width="1919" height="225" alt="portfolio 4" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_4.png?raw=true" />
-  <img width="1919" height="225" alt="portfolio 5" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_5.png?raw=true" />
+  <img width="1919" height="909" alt="portfolio 4" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_4.png?raw=true" />
+  <img width="1919" height="909" alt="portfolio 5" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/port_day3_5.png?raw=true" />
 
   <h3>
     About me (about.html)
