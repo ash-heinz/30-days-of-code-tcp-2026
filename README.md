@@ -54,7 +54,7 @@ Information Technology
     About me (about.html)
   </h3>
   <img width="1919" height="1015" alt="about 1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/about_day3_1.png?raw=true" />
-  <img width="1919" height="907" alt="about 2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/about_day3_1.png?raw=true" />
+  <img width="1919" height="907" alt="about 2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/about_day3_2.png?raw=true" />
   <img width="1919" height="907" alt="about 3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%203%20Portfolio%20Styling%20(Core%20CSS%20Fundamentals)/screenshots/about_day3_3.png?raw=true" />
 
 </section>
