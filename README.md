@@ -39,7 +39,7 @@ Information Technology
 
 <section>
   <h2>
-    DAY 1 — Personal Portfolio (HTML Only)
+    DAY - 3 : Portfolio Styling (Core CSS Fundamentals)
   </h2>
   <h3>
     Porfolio home (index.html)
