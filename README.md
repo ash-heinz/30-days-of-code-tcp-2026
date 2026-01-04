@@ -31,7 +31,7 @@ Information Technology
   <h3>
     Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms.
   </h3>
-  <img width="1919" height="1018" alt="day_2-ss_1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%202.png?raw=true" />
+  <img width="1919" height="1018" alt="day_2-ss_1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%201.png?raw=true" />
   <img width="1919" height="1018" alt="day_2-ss_2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%202.png?raw=true" />
   <img width="1919" height="1018" alt="day_2-ss_3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%203.png?raw=true" />
 
@@ -67,7 +67,7 @@ Information Technology
     Build a product landing page that shows you can use Flexbox layouts, responsive design, CSS variables, transitions, and basic animations.
   </h3>
   <img width="1919" height="1018" alt="day_4-ss_1" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_1.png?raw=true" />
-  <img width="1919" height="1018" alt="day_4-ss_2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%202.png?raw=true" />
-  <img width="1919" height="1018" alt="day_4-ss_3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%203.png?raw=true" />
-  <img width="1919" height="1018" alt="day_4-ss_4" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%202/screenshots/day2%203.png?raw=true" />
+  <img width="1919" height="1018" alt="day_4-ss_2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_2.png?raw=true" />
+  <img width="1919" height="1018" alt="day_4-ss_3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_3.png?raw=true" />
+  <img width="1919" height="1018" alt="day_4-ss_4" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_4.png?raw=true" />
 </section>
