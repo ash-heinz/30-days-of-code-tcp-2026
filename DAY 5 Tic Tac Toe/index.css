@@ -1,4 +1,3 @@
-/* General Reset and Font Setup */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -21,7 +20,6 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-/* --- Modal Styles --- */
 .modal-overlay {
     position: fixed;
     top: 0;
@@ -210,5 +208,3 @@ h1, h2 {
     50% { transform: scale(1.05); }
     100% { transform: scale(1); }
 }
-
-/* External SVG enhancement (using CSS background for grid lines if desired, keeping it simple here) */
