@@ -83,7 +83,13 @@ function handleCellClick(e) {
 
 function handleCellPlayed(clickedCell, clickedCellIndex) {
     gameState[clickedCellIndex] = currentPlayer;
-    clickedCell.innerText = currentPlayer;
+    
+    if (currentPlayer === "X") {
+        clickedCell.innerHTML = '<img src="icon-x.svg" alt="X">';
+    } else {
+        clickedCell.innerHTML = '<img src="icon-o.svg" alt="O">';
+    }
+    
     clickedCell.classList.add(currentPlayer.toLowerCase());
 }
 
