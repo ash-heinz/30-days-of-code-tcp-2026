@@ -1,4 +1,4 @@
-
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/104dab13-157f-4834-b8fe-f00ab5962c8a" />
 # 30-days-of-code-tcp-2026
 Ashwast Gupta
 <br>
@@ -70,4 +70,22 @@ Information Technology
   <img width="1919" height="1018" alt="day_4-ss_2" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_2.png?raw=true" />
   <img width="1919" height="1018" alt="day_4-ss_3" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_3.png?raw=true" />
   <img width="1919" height="1018" alt="day_4-ss_4" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/day4_4.png?raw=true" />
+</section>
+
+<section>
+  <h2>
+    Day 5 Tic Tac Toe
+  </h2>
+  <h3>
+Develop a Tic-Tac-Toe website featuring visually appealing animations for win, loss, and draw scenarios. The project must consist of exactly three files: index.html, index.js, and index.css. Ensure that the stylesheet and script files are properly linked within the HTML file.
+  </h3>
+  <img width="1919" height="1018" alt="playerx_select" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/playerx_select.png?raw=true" />
+  <img width="1919" height="1018" alt="playero_select" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/playero_select.png?raw=true" />
+  <img width="1919" height="1018" alt="game" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/game.png?raw=true" />
+  <img width="1919" height="1018" alt="ronaldo_win" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/ronaldo.png?raw=true" />
+  <img width="1919" height="1018" alt="messi_win" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/messi.png?raw=true" />
+  <img width="1919" height="1018" alt="mbappe_win" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/mbappe.png?raw=true" />
+  <img width="1919" height="1018" alt="zlatan_win" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%205%20Tic%20Tac%20Toe/screenshots/zlatan.png?raw=true" />
+
+
 </section>
