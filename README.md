@@ -1,4 +1,3 @@
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/104dab13-157f-4834-b8fe-f00ab5962c8a" />
 # 30-days-of-code-tcp-2026
 Ashwast Gupta
 <br>
