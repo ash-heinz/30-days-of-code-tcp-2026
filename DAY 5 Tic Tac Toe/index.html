@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Tic-Tac-Toe</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <div id="modal-overlay" class="modal-overlay">
+        <div class="modal-content">
+            <h1 id="modal-title">Player X: Who is better?</h1>
+            <p id="modal-subtitle">Select your GOAT to start the game.</p>
+            <div class="options-grid">
+                <button class="player-btn" data-player="Ronaldo">A. Ronaldo</button>
+                <button class="player-btn" data-player="Messi">B. Messi</button>
+                <button class="player-btn" data-player="Mbappe">C. Mbappe</button>
+                <button class="player-btn" data-player="Zlatan">D. Zlatan</button>
+            </div>
+        </div>
+    </div>
+
+    <main class="game-container hidden" id="game-container">
+        <h1 class="game-title">Tic-Tac-Toe</h1>
+        <div class="turn-indicator" id="turn-indicator">Player X's Turn</div>
+        
+        <div class="game-board" id="board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+    </main>
+
+    <div id="result-overlay" class="result-overlay hidden">
+        <div class="result-content">
+            <h2 id="winner-text">Winner!</h2>
+            <div class="gif-container">
+                <img id="win-gif" src="" alt="Celebration" />
+            </div>
+            <button id="reset-btn" class="reset-btn">Play Again</button>
+        </div>
+    </div>
+
+    <audio id="win-music" src="https://assets.mixkit.co/active_storage/sfx/2013/2013-preview.mp3" preload="auto"></audio>
+
+    <script src="index.js"></script>
+</body>
+</html>

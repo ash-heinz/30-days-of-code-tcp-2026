@@ -1,0 +1,214 @@
+/* General Reset and Font Setup */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+h1, h2 {
+    font-family: 'Orbitron', sans-serif;
+    text-transform: uppercase;
+}
+
+/* --- Modal Styles --- */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    transition: opacity 0.5s ease;
+}
+
+.modal-content {
+    background: #1e1e1e;
+    padding: 2rem;
+    border-radius: 15px;
+    border: 2px solid #00d4ff;
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+    text-align: center;
+    max-width: 500px;
+    width: 90%;
+    animation: slideDown 0.5s ease-out;
+}
+
+.options-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.player-btn {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 15px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.player-btn:hover {
+    background: #fff;
+    color: #000;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+}
+
+/* --- Game Board Styles --- */
+.game-container {
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.game-title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    text-shadow: 0 0 10px #ff00de;
+}
+
+.turn-indicator {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #cccccc;
+}
+
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    background: #333;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.cell {
+    background: #1e1e1e;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+    font-family: 'Orbitron', sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+    user-select: none;
+}
+
+.cell:hover {
+    background: #2a2a2a;
+}
+
+.cell.x {
+    color: #ffc800;
+    text-shadow: 0 0 15px #ffc800;
+    animation: popIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.cell.o {
+    color: #ffffff;
+    text-shadow: 0 0 15px #ffffff;
+    animation: popIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.result-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(53, 53, 53, 0.119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+    flex-direction: column;
+    animation: fadeIn 0.5s ease;
+}
+
+.result-content {
+    text-align: center;
+}
+
+#winner-text {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #ffe600;
+    text-shadow: 0 0 20px #ffe600;
+    animation: pulse 1.5s infinite;
+}
+
+.gif-container img {
+    max-width: 300px;
+    border-radius: 15px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.2);
+}
+
+.reset-btn {
+    margin-top: 30px;
+    padding: 15px 40px;
+    font-size: 1.5rem;
+    background: linear-gradient(45deg, #ff00de, #00d4ff);
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 50px;
+    font-family: 'Orbitron', sans-serif;
+    transition: transform 0.2s;
+    box-shadow: 0 0 20px rgba(255, 0, 222, 0.5);
+}
+
+.reset-btn:hover {
+    transform: scale(1.1);
+}
+
+/* --- Animations --- */
+@keyframes slideDown {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes popIn {
+    from { transform: scale(0); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+/* External SVG enhancement (using CSS background for grid lines if desired, keeping it simple here) */
