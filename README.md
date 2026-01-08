@@ -95,3 +95,11 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
   </h2>
   <img width="1919" height="1018" alt="proof" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%206%20Time%20Complexity/proof.png?raw=true" />
 </section>  
+
+<section>
+  <h2>
+    Day 7 Sum Of Encrypted Numbers
+  </h2>
+  <img width="1919" height="1018" alt="proof" src="https://github.com/ash-heinz/30-days-of-code-tcp-2026/blob/main/DAY%207%20Sum%20of%20Encrypted%20Numbers/screenshot.png?raw=true" />
+</section>  
+
